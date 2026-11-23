@@ -1,0 +1,22 @@
+{
+  "name": "first-flight",
+  "displayName": "建站元技能·First Flight",
+  "description": "Spec-driven workflow to build websites from 0 to 1 with AI",
+  "version": "0.4.0",
+  "author": {
+    "name": "Jason Ng",
+    "email": "jason5ng32@gmail.com"
+  },
+  "homepage": "https://github.com/hou-152/first-flight",
+  "repository": "https://github.com/hou-152/first-flight",
+  "keywords": [
+    "spec-driven",
+    "website-builder",
+    "ai-agents",
+    "claude-code",
+    "codex",
+    "skills",
+    "建站",
+    "元技能"
+  ]
+}

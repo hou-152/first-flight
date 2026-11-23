@@ -1,0 +1,42 @@
+{
+  "name": "first-flight",
+  "version": "0.4.0",
+  "description": "Spec-driven workflow to build websites from 0 to 1 with AI",
+  "author": {
+    "name": "Jason Ng",
+    "email": "jason5ng32@gmail.com",
+    "url": "https://github.com/candobear"
+  },
+  "homepage": "https://github.com/hou-152/first-flight",
+  "repository": "https://github.com/hou-152/first-flight",
+  "keywords": [
+    "spec-driven",
+    "website-builder",
+    "ai-agents",
+    "codex",
+    "skills",
+    "建站",
+    "元技能"
+  ],
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "建站元技能·First Flight",
+    "shortDescription": "Plan a website from 0 to 1 with AI",
+    "longDescription": "First Flight guides users through a spec-driven website planning workflow: Step 0 problem definition, then BRIEF, PRD, DESIGN, ARCHITECTURE, CONTENT and AGENTS.",
+    "developerName": "CandoBear",
+    "category": "Productivity",
+    "capabilities": [
+      "Interactive",
+      "Write"
+    ],
+    "websiteURL": "https://github.com/hou-152/first-flight",
+    "defaultPrompt": [
+      "Use First Flight to plan a new website from scratch.",
+      "Create a First Flight batch spec skeleton for my site.",
+      "Help me continue First Flight from my existing BRIEF.md."
+    ],
+    "brandColor": "#2563EB",
+    "composerIcon": "./assets/icon.svg",
+    "logo": "./assets/logo.svg"
+  }
+}

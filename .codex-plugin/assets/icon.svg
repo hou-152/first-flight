@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">First Flight icon</title>
+  <desc id="desc">A paper airplane flying over six planning steps.</desc>
+  <rect width="512" height="512" rx="112" fill="#2563EB"/>
+  <path d="M116 247.5 398 116c11.5-5.4 23.9 6.9 18.5 18.5L285 416.5c-5.4 11.5-22.2 10-25.5-2.3l-33.4-123.3-123.3-33.4c-12.3-3.3-13.8-20.1-2.3-25.5Z" fill="#FFFFFF"/>
+  <path d="m231.5 286.5 101-101" fill="none" stroke="#1D4ED8" stroke-width="28" stroke-linecap="round"/>
+  <circle cx="138" cy="368" r="10" fill="#BFDBFE"/>
+  <circle cx="178" cy="384" r="10" fill="#BFDBFE"/>
+  <circle cx="218" cy="400" r="10" fill="#BFDBFE"/>
+  <circle cx="258" cy="416" r="10" fill="#BFDBFE"/>
+  <circle cx="298" cy="432" r="10" fill="#BFDBFE"/>
+  <circle cx="338" cy="448" r="10" fill="#BFDBFE"/>
+</svg>

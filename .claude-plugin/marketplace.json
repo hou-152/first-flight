@@ -1,0 +1,32 @@
+{
+  "name": "candobear",
+  "owner": {
+    "name": "Jason Ng",
+    "email": "jason5ng32@gmail.com",
+    "url": "https://github.com/candobear"
+  },
+  "metadata": {
+    "description": "CandoBear AgentLab",
+    "version": "0.4.0"
+  },
+  "plugins": [
+    {
+      "name": "first-flight",
+      "displayName": "建站元技能·First Flight",
+      "description": "Spec-driven flow for building websites from scratch. Step 0 problem-definition (first-flight-grill) followed by 6 spec sub-skills (BRIEF → PRD → DESIGN → ARCHITECTURE → CONTENT → AGENTS); 1 additional sub-skill (first-flight-phases) manages complex coding work as plan + phase documents with a PR Readiness Gate, reused for every later iteration.",
+      "source": "./",
+      "strict": true,
+      "skills": [
+        "./skills/first-flight",
+        "./skills/first-flight-grill",
+        "./skills/first-flight-brief",
+        "./skills/first-flight-prd",
+        "./skills/first-flight-design",
+        "./skills/first-flight-architecture",
+        "./skills/first-flight-content",
+        "./skills/first-flight-agents",
+        "./skills/first-flight-phases"
+      ]
+    }
+  ]
+}
